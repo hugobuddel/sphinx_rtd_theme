@@ -115,6 +115,8 @@ Field list
     language, containing examples of all basic reStructuredText
     constructs and many advanced constructs.
 
+.. Note:: Field lists render significantly different in Sphinx 1 and Sphinx 2.
+
 Bullet Lists
 ------------
 
